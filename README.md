@@ -1,1 +1,2 @@
-# PegovaAnastasia
+# PegovaAnastasia 
+Лабораторные работы к курсы C#
